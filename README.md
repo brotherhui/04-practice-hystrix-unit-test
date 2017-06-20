@@ -5,5 +5,5 @@ workable version of hystrix and also the unit test
 
 
 - The propose of this test is to 
-1 normally, call hello1 will call hello2
-2 abnormally (in unit test), simulate call hello1 will get hello3 (hystrix fallback)
+# normally, call hello1 will call hello2
+# abnormally (in unit test), simulate call hello1 will get hello3 (hystrix fallback)
